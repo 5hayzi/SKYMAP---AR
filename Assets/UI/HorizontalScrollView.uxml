@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/horizontalScrollView.uss?fileID=7433441132597879392&amp;guid=ed682eaf1d0c47042b716dfa18db95e3&amp;type=3#horizontalScrollView" />
+    <ui:ScrollView name="ScrollView" horizontal-scroller-visibility="Hidden" vertical-scroller-visibility="Hidden" horizontal-page-size="-1" mode="Horizontal" class="header" style="height: 450px; visibility: visible; width: 350px; background-color: rgb(255, 255, 255);" />
+</ui:UXML>
